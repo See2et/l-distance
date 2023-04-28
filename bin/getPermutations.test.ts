@@ -15,7 +15,6 @@ Deno.test("swap a couple of chars", () => {
     "pume",
     "peum",
   ];
-  console.log(getPermutations("pemu"));
   assertEquals(actual, expected);
 });
 
