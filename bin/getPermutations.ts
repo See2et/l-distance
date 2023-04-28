@@ -13,4 +13,3 @@ export function getPermutations(str: string): string[] {
 
   return result;
 }
-

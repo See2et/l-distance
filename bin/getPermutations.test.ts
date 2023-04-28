@@ -17,4 +17,3 @@ Deno.test("swap a couple of chars", () => {
   ];
   assertEquals(actual, expected);
 });
-
